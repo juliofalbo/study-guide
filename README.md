@@ -94,3 +94,6 @@ ___
 
 * Pre Requirement -> [Protocol Buffers 3](https://www.udemy.com/protocol-buffers/)    
 * [gRPC with Java](https://www.udemy.com/grpc-java/)
+
+## - DDD
+* [Modelando Domínios Ricos](https://www.udemy.com/modelando-dominios-ricos/learn/v4/content)
