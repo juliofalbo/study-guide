@@ -48,27 +48,27 @@ ___
 
 [Spring Framework 5 - Beginner to Guru](https://www.udemy.com/spring-framework-5-beginner-to-guru/learn/v4/)
 
-[Mastering Thymeleaf with Spring/](https://www.udemy.com/mastering-thymeleaf-with-spring/)
+[Mastering Thymeleaf with Spring](https://www.udemy.com/mastering-thymeleaf-with-spring/)
 
 [Reactive Programming with Spring Framework-5](https://www.udemy.com/reactive-programming-with-spring-framework-5/)
 
-[Spring Core Advanced beyond the basics/](https://www.udemy.com/spring-core-advanced-beyond-the-basics/)
+[Spring Core Advanced beyond the basics](https://www.udemy.com/spring-core-advanced-beyond-the-basics/)
 ___
 #### Microservices with Spring Boot
-[Microservices Spring Course/](https://www.udemy.com/microservices-spring-course/)
+[Microservices Spring Course](https://www.udemy.com/microservices-spring-course/)
 
 [Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/microservices-with-spring-boot-and-spring-cloud/learn/v4/overview)
 
-[Ready for Production with Spring Boot Actuator/](https://www.udemy.com/ready-for-production-with-spring-boot-actuator/)
+[Ready for Production with Spring Boot Actuator](https://www.udemy.com/ready-for-production-with-spring-boot-actuator/)
 
-[Learning PATH - Java Microservices with Java for Experts/](https://www.udemy.com/learning-path-java-microservices-with-java-for-experts/)
+[Learning PATH - Java Microservices with Java for Experts](https://www.udemy.com/learning-path-java-microservices-with-java-for-experts/)
 ___
 ## - RabbitMQ
 [RabbitMQ - The Complete Guide with Software Architecture Applications](https://www.udemy.com/rabbitmq-the-complete-guide-with-software-architecture-applications/learn/v4/overview)
 
 [Learn RabbitMQ Asynchronous Messaging with Java and Spring](https://www.udemy.com/learn-rabbitmq-asynchronous-messaging-with-java-and-spring/learn/v4/overview)
 
-[RabbitMQ - Java Spring Boot for System Integration/](https://www.udemy.com/rabbitmq-java-spring-boot-for-system-integration/)
+[RabbitMQ - Java Spring Boot for System Integration](https://www.udemy.com/rabbitmq-java-spring-boot-for-system-integration/)
 
 ## - Apache Kafka
 [Apache Kafka for Beginners](https://www.udemy.com/apache-kafka/learn/v4/)
@@ -123,7 +123,7 @@ ___
 [Missão DevOps - Jenkins em larga escala com Docker e Kubernetes](https://www.udemy.com/missao-devops-jenkins-em-larga-escala-docker-e-kubernetes/learn/v4/overview)
 
 ## - Terraform
-[Learn DevOps Infrastructure Automation with Terraform/](https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/)
+[Learn DevOps Infrastructure Automation with Terraform](https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/)
     
 
 ## - gRPC
