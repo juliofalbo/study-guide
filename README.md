@@ -11,6 +11,9 @@ I set up this study guide to organize the study of new technologies. Feel free t
 * [Java Interview Questions And Answers](https://www.udemy.com/java-interview-questions-and-answers/)
 * [The Complete Guide To JavaEE 8 - 3 in 1](https://www.udemy.com/the-complete-guide-to-java-ee-8-3-in-1/)
 ___
+#### Memory
+* [Java Memory Management](https://www.udemy.com/java-memory-management/)
+___
 #### Algorithms
 * [Algorithms and Data Structures](https://www.udemy.com/algorithms-and-data-structures/)
 * [Algorithms and Data Structures in Java Part II](https://www.udemy.com/algorithms-and-data-structures-in-java-part-ii/)
@@ -38,6 +41,7 @@ ___
 * [Mastering Thymeleaf with Spring](https://www.udemy.com/mastering-thymeleaf-with-spring/)
 * [Reactive Programming with Spring Framework 5](https://www.udemy.com/reactive-programming-with-spring-framework-5/)
 * [Spring Core Advanced beyond the basics](https://www.udemy.com/spring-core-advanced-beyond-the-basics/)
+* [Spring Interview Questions and Answers](https://www.udemy.com/spring-interview-questions-and-answers/)
 ___
 #### Microservices with Spring Boot
 * [Microservices Spring Course](https://www.udemy.com/microservices-spring-course/)
