@@ -14,6 +14,10 @@ ___
 #### Memory
 * [Java Memory Management](https://www.udemy.com/java-memory-management/)
 ___
+#### Multithreading
+* [Multithreading and Parallel Computing in Java](https://www.udemy.com/multithreading-and-parallel-computing-in-java/)
+* [Java Multithreading, Concurrency & Performance Optimization](https://www.udemy.com/java-multithreading-concurrency-performance-optimization/)
+___
 #### Algorithms
 * [Algorithms and Data Structures](https://www.udemy.com/algorithms-and-data-structures/)
 * [Algorithms and Data Structures in Java Part II](https://www.udemy.com/algorithms-and-data-structures-in-java-part-ii/)
