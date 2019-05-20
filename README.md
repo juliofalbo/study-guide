@@ -89,6 +89,7 @@ ___
 ___
 #### Kubernetes
 * [DevOps Bootcamp](https://www.udemy.com/devopsbootcamp/learn/v4/overview)    
+* [Docker and Kubernetes the Complete Guide](https://www.udemy.com/docker-and-kubernetes-the-complete-guide/)
 * [Learn DevOps - The complete Kubernetes Course](https://www.udemy.com/learn-devops-the-complete-kubernetes-course/)    
 * [Learn DevOps - Advanced Kubernetes Usage](https://www.udemy.com/learn-devops-advanced-kubernetes-usage/)
 ___
