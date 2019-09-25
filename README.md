@@ -98,6 +98,7 @@ ___
 * [Apache Kafka Confluent Schema Registry](https://www.udemy.com/confluent-schema-registry/)
 * [Apache Kafka Security](https://www.udemy.com/apache-kafka-security/)
 * [Apache Kafka Monitoring and Operations](https://www.udemy.com/kafka-monitoring-and-operations/)
+* [Apache Kafka Series - KSQL for Stream Processing - Hands On!](https://www.udemy.com/kafka-ksql/)
 
 ## - DevOps
 
