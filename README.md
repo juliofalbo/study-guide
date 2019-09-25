@@ -1,7 +1,8 @@
 
 # Study Guide
 
-I set up this study guide to organize the study of new technologies. Feel free to contribute to courses that you have done and liked!
+I set up this study guide to organize the study of new technologies. We can use this guide to learn how to become a Java focused Software Engineer.
+*Feel free to contribute to courses that you have done and liked!*
 
 ## - Java
 #### Basic
