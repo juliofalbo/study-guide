@@ -117,6 +117,10 @@ ___
 * [AWS EC2 Masterclass](https://www.udemy.com/aws-ec2-masterclass/)   
 * [AWS CloudFormation Masterclass](https://www.udemy.com/aws-cloudformation-master-class/)
 * [AWS Lambda Serverless](https://www.udemy.com/aws-lambda-serverless/)    
+* [Deploy Java Spring Apps Online to Amazon Cloud (AWS)](https://www.udemy.com/course/deploy-java-spring-apps-online/)
+* [Learn AWS - Deploy Java Spring Boot to AWS Elastic Beanstalk](https://www.udemy.com/course/deploy-java-spring-boot-to-aws-amazon-web-service/)
+* [Docker in AWS - Deploy Java Spring Boot to AWS Fargate & ECS](https://www.udemy.com/course/deploy-spring-microservices-to-aws-with-ecs-and-aws-fargate/)
+* [Spring Framework DevOps on AWS](https://www.udemy.com/course/spring-core-devops-on-aws/)
 
 #### AWS Certifications
 * [Ultimate AWS Certified SysOps Administrator Associate 2019](https://www.udemy.com/ultimate-aws-certified-sysops-administrator-associate/?couponCode=LAUNCH10&utm_content=promo&utm_campaign=2019-01-15&utm_source=email-sendgrid&utm_term=16122994&utm_medium=1075642)    
