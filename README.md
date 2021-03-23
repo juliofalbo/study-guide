@@ -80,7 +80,8 @@ ___
 * [Spring Interview Questions and Answers](https://www.udemy.com/spring-interview-questions-and-answers/)
 ___
 #### Microservices with Spring Boot
-* [Microservices Spring Course](https://www.udemy.com/microservices-spring-course/)
+* [Microservices Spring Course](https://www.udemy.com/course/microservices-with-spring-cloud/)
+* [Event-driven microservices: Spring boot, kafka and elastic](https://www.udemy.com/course/event-driven-microservices-spring-boot-kafka-and-elasticsearch/)
 * [Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/microservices-with-spring-boot-and-spring-cloud/learn/v4/overview)
 * [Ready for Production with Spring Boot Actuator](https://www.udemy.com/ready-for-production-with-spring-boot-actuator/)
 * [Learning PATH - Java Microservices with Java for Experts](https://www.udemy.com/learning-path-java-microservices-with-java-for-experts/)
@@ -149,3 +150,6 @@ ___
 * [Fundamentos de Domain-Driven Design ( DDD )](https://www.udemy.com/course/fundamentos-de-domain-driven-design/)
 * [Aprendendo Domain Driven Design (DDD) do zero](https://www.udemy.com/course/aprendendo-domain-drive-design-ddd-do-zero/)
 * [Domain Driven Design: Fundamentals](https://www.udemy.com/course/domain-driven-design-fundamentals/)
+
+## - General Architecture
+* [Microservices Software Architecture: Patterns and Techniques](https://www.udemy.com/course/microservices-software-architecture-patterns-and-techniques/)
